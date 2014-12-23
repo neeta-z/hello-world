@@ -1,0 +1,3 @@
+use shortcode [SocialIcons] to add to content.
+
+See implementation on http://localhost/demo/
